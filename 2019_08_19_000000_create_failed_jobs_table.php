@@ -5,6 +5,8 @@ use Illuminate\Support\Facades\Schema;
 
 // a change from a new branch
 
+// i love git and github
+
 return new class extends Migration
 {
     /**
